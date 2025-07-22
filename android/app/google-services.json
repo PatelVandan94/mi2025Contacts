@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454200988293",
+    "firebase_url": "https://native-app-3b36b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "native-app-3b36b",
+    "storage_bucket": "native-app-3b36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454200988293:android:f4477fe7a94cc7fdb50fec",
+        "android_client_info": {
+          "package_name": "com.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454200988293-kv27p3a6b4m7dmohvhs8p13io0mf2aj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2KurmjOfzg1bwIgbLY-b88CBElFSa9Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454200988293-kv27p3a6b4m7dmohvhs8p13io0mf2aj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
